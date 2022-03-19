@@ -8,6 +8,7 @@
   <br>∟ Learn C | Codecademy
 - I’m currently learning:
   <br>∟ Full‐Stack Engineer | Codecademy
+  <br>∟ Learn C++ | Codecademy
 - I’m looking to collaborate on "after work-hours" projects where I could use my programming skills
 - Reach me via email artur.bas@hotmail.com
 	
